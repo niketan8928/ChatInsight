@@ -19,3 +19,6 @@ Here’s how you can export a WhatsApp chat:
 4.Choose whether to include media files or not.
 5.Select a method to share the exported chat file (email, Google Drive, etc.).
 6.Once you have the exported chat file, you can upload it here, and I will help you analyze it.
+
+
+
